@@ -1,6 +1,13 @@
-$body-color: slateblue;
+$body-color: #ccc;
 
 body {
   color: $body-color;
+  flex: 1 1 1;
   font-family: sans-serif;
+}
+
+.test {
+  background: url(../media/hero.png) no-repeat center;
+  height: 200px;
+  width: 200px;
 }

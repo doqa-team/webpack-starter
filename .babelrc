@@ -6,7 +6,9 @@
         "useBuiltIns": "usage",
         "corejs": "3.0.0"
       }
-    ]
+    ],
+    "@babel/preset-react",
+    "@babel/preset-typescript"
   ],
   "plugins": [
     "@babel/plugin-syntax-dynamic-import",
